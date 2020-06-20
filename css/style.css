@@ -24,7 +24,6 @@ body{
 
 .column-1-3{
     width: 58.50%; 
-    /* width: 83.50%; */
     background-color: aliceblue;
     display: inline-block;
 }
